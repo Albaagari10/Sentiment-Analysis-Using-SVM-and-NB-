@@ -11,7 +11,7 @@ This project performs sentiment classification on Amazon reviews from the Cell P
 2. Format: JSON
 3. Contains review text, rating, metadata, and helpfulness information
 
-#🧹 Data Preprocessing
+# 🧹 Data Preprocessing
 1. Text cleaning (lowercasing, punctuation removal, lemmatization)
 2. Stop-word removal and tokenization
 3. Sentiment labeling (VADER & TextBlob comparison)
