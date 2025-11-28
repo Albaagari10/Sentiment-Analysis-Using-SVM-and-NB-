@@ -1,2 +1,2 @@
 # Sentiment-Analysis-Using-SVM-and-NB-
-Machine learning project that classifies Amazon Cell Phones &amp; Accessories reviews into positive, neutral, or negative sentiments using TF-IDF, POS features, and lexicon-based features. Models include Naïve Bayes and Linear SVC, with results visualized in a Power BI dashboard.
+This project performs sentiment classification on Amazon reviews from the Cell Phones & Accessories category. Using NLP preprocessing, TF-IDF, POS tagging, and lexicon-based features, two machine learning models—Multinomial Naïve Bayes and Linear SVC—are trained to classify reviews as positive, negative, or neutral. An interactive Power BI dashboard is also developed to visualize customer insights and sentiment trends.
